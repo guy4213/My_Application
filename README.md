@@ -3,7 +3,7 @@
  <h2>The project mission:</h2>
 this application is designed to combine data and knowledge in sports.
 
-<h2>seprated into multiple parts:</h2>
+<h2>seperated into multiple parts:</h2>
 
 <h3>first part: </h3>
  displaying the athletes in 2 categories:
