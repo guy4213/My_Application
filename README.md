@@ -49,7 +49,7 @@ using room to create the database for the app.<br>
 * Works offline by caching data into a database.<br>
 * using Fragments in this app.<br>
 * no need for api key in this app.<br>
-* can search any player you want,learn and even do trivia on him.
+* can search any player you want,learn and even do trivia on him.<br><br>
 
 👏 Acknowledgments
 *thanks for ThesportsDB for the api usage
