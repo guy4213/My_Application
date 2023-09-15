@@ -25,7 +25,7 @@ Built on MVVM architecture pattern.<br>
 Uses Android Architecture Components, specifically ViewModel and LiveData.<br>
 Uses Retrofit for making API calls.<br>
 Uses Picasso for image loading.<br>
-uses hilt for sharing components with the whole app.<br>
+uses hilt for sharing components with the whole app,also used for building and dependency injection in Android projects.<br>
 using coroutines to work Asynchronous.<br>
 using room to create the database for the app.<br>
 <br><br>
