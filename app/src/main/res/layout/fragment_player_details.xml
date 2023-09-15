@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/player_picture"
+            android:layout_width="397dp"
+            android:layout_height="363dp"
+            android:layout_marginTop="48dp"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.493"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_launcher_foreground"
+            tools:ignore="ContentDescription,ImageContrastCheck" />
+
+        <TextView
+            android:id="@+id/Description"
+            android:layout_width="404dp"
+            android:layout_height="322dp"
+            android:fadeScrollbars="true"
+            android:fontFamily="sans-serif"
+            android:isScrollContainer="true"
+            android:nestedScrollingEnabled="true"
+            android:overScrollMode="always"
+            android:scrollbarAlwaysDrawHorizontalTrack="false"
+            android:scrollbarAlwaysDrawVerticalTrack="true"
+            android:scrollbars="vertical"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            android:verticalScrollbarPosition="right"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:ignore="VisualLintBounds"
+            tools:text="player's description"
+            tools:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/player_fullname"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="21dp"
+            android:background="#E6C7C7"
+            android:textAllCaps="true"
+            android:textSize="24sp"
+            android:textStyle="bold|italic"
+            app:layout_constraintBottom_toTopOf="@+id/Description"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/player_picture"
+            tools:ignore="MissingConstraints,TextSizeCheck"
+            tools:text="player name"
+            tools:textSize="24sp" />
+
+        <Button
+            android:id="@+id/go_to_trivia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/go_to_trivia"
+            app:layout_constraintBottom_toBottomOf="@+id/back"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.978"
+            app:layout_constraintStart_toEndOf="@+id/back"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="179dp"
+            android:layout_marginBottom="7dp"
+            android:text="@string/back"
+            app:layout_constraintBottom_toTopOf="@+id/player_picture"
+            app:layout_constraintEnd_toStartOf="@+id/go_to_trivia"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome_to_the_international_sportsweb">welcome to the international sportsweb</string>
+    <string name="players">players</string>
+    <string name="soccer_players">soccer players</string>
+    <string name="search">Search</string>
+    <string name="go_to_trivia">go to trivia</string>
+    <string name="there_is_no_pic">there is no pic</string>
+    <string name="search_soccer_players_only">search soccer players only</string>
+    <string name="back">back</string>
+    <string name="search_a_player_here">search a player here:</string>
+    <string name="back_to_main_menu">back to main menu</string>
+</resources>
