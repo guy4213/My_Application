@@ -31,7 +31,7 @@ using room to create the database for the app.
 
 
 
-<img src="main.png" width="400" height="400">
+<img src="main.png" width="400" height="550">
 ####
 <img src="allathletes.png" width="400" height="550">
 ####
