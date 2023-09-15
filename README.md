@@ -51,7 +51,8 @@ using room to create the database for the app.<br>
 * no need for api key in this app.<br>
 * can search any player you want,learn and even do trivia on him.<br><br>
 
-👏<h3>Acknowledgments</h3>
-*thanks for ThesportsDB for the api usage
+<h3>👏Acknowledgments</h3> 
+
+* thanks for ThesportsDB for the api usage
 
 
