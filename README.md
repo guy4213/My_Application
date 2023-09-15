@@ -1,4 +1,4 @@
-#welcome to the  international sport web application:
+<h1>welcome to the  international sport web application:</h1>
 
 ##section 1: explaining the project mission:
 this application is designed to combine data and knowledge in sports:
