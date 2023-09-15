@@ -30,17 +30,17 @@ using room to create the database for the app.
 
 
 
-<img src="main.png" width="200" height="100">
+<img src="main.png" >
 ####
-<img src="allathletes.png" width="200" height="100">
+<img src="allathletes.png" >
 ####
-<img src="mjdetails.png" width="200" height="100">
+<img src="mjdetails.png" >
 ####
-<img src="trivia.png" width="200" height="100">
+<img src="trivia.png" >
 ####
-<img src="congrats.png" width="200" height="100">
+<img src="congrats.png" >
 ####
-<img src="failedfrag.png" width="200" height="100">
+<img src="failedfrag.png" >
 ####
-<img src="football.png" width="200" height="100">
+<img src="football.png" >
 
