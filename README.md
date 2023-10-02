@@ -33,19 +33,19 @@ using room to create the database for the app.<br>
 
 
 <img src="main.png" width="400" height="600">
-####
+<br>
 <img src="allathletes.png" width="400" height="600">
-####
+<br>
 <img src="mjdetails.png" width="400" height="600">
-####
+<br>
 <img src="trivia.png" width="400" height="600">
-####
+<br>
 <img src="congrats.png" width="400" height="600">
-####
+<br>
 <img src="failedfrag.png" width="400" height="600">
-####
+<br>
 <img src="football.png" width="400" height="600">
-
+<br>
 * Works offline by caching data into a database.<br>
 * using Fragments in this app.<br>
 * no need for api key in this app.<br>
